@@ -4,9 +4,8 @@ export const Box = styled.div`
   background-color: black;
   border-radius: 16px;
   width: 240px;
-  height: 100%;
+  height: 415px;
   margin: auto;
-  margin-top: 48px;
   padding: 8px;
   font-family: Arial, Helvetica, sans-serif;
 `;

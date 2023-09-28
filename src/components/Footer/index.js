@@ -2,6 +2,9 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <h3>Testando footer</h3>
+    <>
+      <img src="../../../assets/linkedin.png" style={{ width: "45px", height: "45px" }} />
+      <h1>Testando Container</h1>
+    </>
   )
 }
